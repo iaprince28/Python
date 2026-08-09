@@ -92,6 +92,43 @@ b1 = bytearray(list1)
 
 print(type(b1))
 
-b1[0] = 100
+b1[0] = 100 #Replacing the first number 2 to 100
 
 print(b1[0])
+
+#None type data
+
+x = None #x = ' '
+
+print(None)
+
+print(type(None)) 
+
+#list type data( Data can be changale anytime)
+
+li = ['prince','masum','shofik','fahim']
+
+li[1] = 'azim'
+
+print(li)
+
+print(type(li))
+
+#Tuple type data( Data can't be changed)
+
+tup = (5,10,15,20,25)
+
+print(tup)
+
+print(type(tup))
+
+#range type data
+
+ran = range(6)
+
+print(ran)
+
+print(type(ran))
+
+for i in ran:
+    print(i)
