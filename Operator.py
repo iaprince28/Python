@@ -1,43 +1,43 @@
-# #Python arithmetic operator
+#Python arithmetic operator
 
-# a = 10
-# b = 20
+a = 10
+b = 20
 
-# #Addition
-# print(a + b)
+#Addition
+print(a + b)
 
-# #Subtraction
-# print(b - a)
+#Subtraction
+print(b - a)
 
-# #Multiplication
-# print(a * b)
+#Multiplication
+print(a * b)
 
-# #Division
-# print(a / b)
+#Division
+print(a / b)
 
-# #Modulus
-# print(b % a)
+#Modulus
+print(b % a)
 
-# #Exponentiation
-# print(a ** b)
+#Exponentiation
+print(a ** b)
 
-# #Floor division
-# sum1 = 15
-# sum2 = 2
+#Floor division
+sum1 = 15
+sum2 = 2
 
-# print(sum1 // sum2)
+print(sum1 // sum2)
 
 
 # Assignment operator
 
-# a = 5
-# sum = a + 5
+a = 5
+sum = a + 5
 
-# print(sum)
+print(sum)
 
-# sum += 10
+sum += 10
 
-# print(sum)
+print(sum)
 
 a = 10
 
@@ -45,14 +45,14 @@ a -= 50
 
 print(a)
 
-#Swaping
+# Swaping
 
 c = 50
 d = 60
 
-c,d = d,c
- 
-# print(c,d)
+c, d = d, c
+
+print(c,d)
 
 print("The value of c is", c)
-print("The value of d is", d )
+print("The value of d is", d)
