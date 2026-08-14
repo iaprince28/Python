@@ -1,0 +1,7 @@
+name = "112233"
+print(int(name))
+
+print(type(int(name)))
+
+num = '96'
+print(float(num))
