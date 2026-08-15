@@ -30,8 +30,27 @@ Access[3] = 'EEE'
 
 print(Access)
 
-# Append
+# Append(adding int number)
 
 Access.append(10)
 
 print(Access)
+
+#nsert(adding something)
+
+Access.insert(0, 'CSE')
+Access.insert(2, 'IIT')
+
+print(Access)
+
+# Remove method (remove some specify iteem)
+
+list = ['imteaz', 'alam', 'prince', 28]
+list.remove('alam')
+print(list)
+
+# Pop method(remove some specify iteem)
+
+list.pop(1)
+list.pop() #If we doesn't write something,it will remove the last iteem
+print(list)
