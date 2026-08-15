@@ -75,3 +75,15 @@ loopList = ['Ankita', 'Totini', 'Niha', 'Tabassum']
 
 for fahim in loopList:
     print(fahim)
+
+# Range
+
+for i in range(len(loopList)):
+    print(i)
+
+# While loop
+
+Y = 0
+while Y < len(loopList):
+    print(loopList[Y])
+    Y = Y + 1
