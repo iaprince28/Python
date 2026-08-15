@@ -36,7 +36,7 @@ Access.append(10)
 
 print(Access)
 
-#nsert(adding something)
+# insert(adding something)
 
 Access.insert(0, 'CSE')
 Access.insert(2, 'IIT')
@@ -53,4 +53,25 @@ print(list)
 
 list.pop(1)
 list.pop() #If we doesn't write something,it will remove the last iteem
+
 print(list)
+
+# Del keyword(remove some specify iteem)
+
+del list[0]
+
+print(list)
+
+#clear method(clear all the iteem)
+
+li = ['A', 'B', 'C', 'D']
+
+li.clear()
+print(li)
+
+#For loop
+
+loopList = ['Ankita', 'Totini', 'Niha', 'Tabassum']
+
+for fahim in loopList:
+    print(fahim)
