@@ -71,7 +71,7 @@ print(li)
 
 #For loop
 
-loopList = ['Ankita', 'Totini', 'Niha', 'Tabassum']
+loopList = ['Ankita', 'Totini', 'Niha', 'Tabassum', 'Orthi']
 
 for fahim in loopList:
     print(fahim)
@@ -87,3 +87,4 @@ Y = 0
 while Y < len(loopList):
     print(loopList[Y])
     Y = Y + 1
+   
