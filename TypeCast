@@ -1,3 +1,5 @@
+# Typecast
+
 name = "112233"
 print(int(name))
 
