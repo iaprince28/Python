@@ -1,9 +1,9 @@
 # Typecast
 
-name = "112233"
+name = "112255"
 print(int(name))
 
 print(type(int(name)))
 
-num = '96'
+num = '98'
 print(float(num))
