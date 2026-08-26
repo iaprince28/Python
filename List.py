@@ -71,7 +71,7 @@ print(li)
 
 #For loop
 
-loopList = ['Ankita', 'Totini', 'Niha', 'Tabassum', 'Orthi', 'Ognila']
+loopList = ['Ankita', 'Totini', 'Niha', 'Tabassum', 'Orthi', 'Ognila','Ohona']
 
 for fahim in loopList:
     print(fahim)
